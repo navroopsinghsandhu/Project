@@ -13,7 +13,7 @@
     "bower": "^1.8.8",
     "express": "^4.17.0",
     "mysql": "^2.17.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.2.0"
   }
 }
