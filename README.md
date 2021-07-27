@@ -1,5 +1,9 @@
 # Project
 1. TASKLIST
+    TASKS CAN BE ADDED USING AN INPUT FIELD AT THE TOP
+    THEY CAN BE MARKED COMPLETED 
+    TASKS CAN BE DELETED USING A DELETE BUTTON
+    BASICALLY, IT IS A TOOL TO ORGANISE A PERSON’S DAY TO DAY ACTIVITIES
 2. WEATHER INFO
 
 Further idea is to make available a number of apps embedded in a single web app in an organised way.
