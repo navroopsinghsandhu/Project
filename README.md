@@ -1,10 +1,10 @@
 # Project
-A FUN PROJECT TO LEARN ABOUT NODEJS/EXPRESS, SETTING UP DATABASE USING MYSQL AND CLIENT-SERVER COMMUNICATION THROUGH DATA FETCHING
-IT HAS
+A fun project to get hands on web technologies like HTML/CSS, Javscript, NodeJS(Express), JSON data, setting up database using MYSQL and server-client communication through data fetching                                                                                                                                                         
+It has
 1. TASKLIST:
-    1. TASKS CAN BE ADDED USING AN INPUT FIELD AT THE TOP
-    2. THEY CAN BE MARKED COMPLETED 
-    3. TASKS CAN BE DELETED USING A DELETE BUTTON
-    4. BASICALLY, IT IS A TOOL TO ORGANISE A PERSON’S DAY TO DAY ACTIVITIES
+    1. Tasks can be added using an input field and plus button
+    2. Once completed, tasks can be marked
+    3. Tasks can also be completed using a delete button
+    4. It provides a tool to organise a person's day to day actovoties.
 
-2. WEATHER INFO - IT GATHERS WEATHER INFORMATION USING A THIRD PARTY API
+2. WEATHER INFO - Implements a third party API and reads JSON data provided by the API to display in a readable and attractive way
